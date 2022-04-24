@@ -1,0 +1,6 @@
+[submodule "john-silva-and-jeremy-goode/uconn-coursefinder-backend"]
+	path = john-silva-and-jeremy-goode/uconn-coursefinder-backend
+	url = https://github.com/minemidnight/uconn-coursefinder-backend
+[submodule "john-silva-and-jeremy-goode/uconn-coursefinder-frontend"]
+	path = john-silva-and-jeremy-goode/uconn-coursefinder-frontend
+	url = https://github.com/minemidnight/uconn-coursefinder-frontend
